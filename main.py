@@ -2,6 +2,9 @@
 #                                                                                       #
 # Example showing Velexa API to request market data for a selected financial instrument #
 # Runs for length of time authorisation token is valid                                  #
+# Add your app_id, client_id and shared_key.                                            #
+# Choose ttl (time to live value) in seconds                                            #
+# Change symbol to desired instrument symbol                                              #
 #                                                                                       #
 #########################################################################################
 import helper as h
