@@ -1,9 +1,9 @@
-#######################################################################################
-#                                                                                     #
-# Example showing Velexa API to request market data for a selected instrument         #
-# Runs for length of time authorisation token is valid                                #
-#                                                                                     #
-#######################################################################################
+#########################################################################################
+#                                                                                       #
+# Example showing Velexa API to request market data for a selected financial instrument #
+# Runs for length of time authorisation token is valid                                  #
+#                                                                                       #
+#########################################################################################
 import helper as h
 import requests
 import time
